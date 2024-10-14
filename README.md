@@ -9,7 +9,7 @@ then i rolled back to the specific old version only to find its disability to lo
 
 shit bug
 
-I deleted all files related to GitKraken and reinstalled the newest version and finally get things right
+I deleted all files related to GitKraken using "Everything" and reinstalled the newest version and finally get things right
 
 DO NOT TRY TO INSTALL ANY OLDER VERSION OF GitKraken
 
